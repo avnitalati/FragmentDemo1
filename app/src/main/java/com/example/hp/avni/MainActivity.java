@@ -9,7 +9,7 @@ import android.widget.Button;
 import android.widget.LinearLayout;
 
 import static com.example.hp.avni.R.layout.fragment2;
-//first comment
+
 
 public class MainActivity extends AppCompatActivity {
     private LinearLayout l2;
